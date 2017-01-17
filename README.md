@@ -1,0 +1,2 @@
+# WsService
+simple web service
